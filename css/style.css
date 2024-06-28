@@ -1,0 +1,29 @@
+.navbar{
+    border: 5% solid rgb(180, 34, 185); 
+    box-shadow: 0 2px 7px rgb(179, 60, 202);
+}
+
+header{
+    height: 100vh;
+   background: url(../images/head_bg.jpg);
+   background-color: center;
+   background-size: cover;
+}
+
+.header-text{
+    text-align: center;
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50% , -50%);
+    }
+
+   
+
+    #about h5{
+        letter-spacing: 5px;
+    
+        }
+        
+        #about img{
+        min-height: 100%;
+        }
